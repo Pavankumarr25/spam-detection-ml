@@ -1,4 +1,4 @@
-# # 🚀 Spam Detection System using Machine Learning (TF-IDF + Logistic Regression)
+# # Spam Detection System using Machine Learning (TF-IDF + Logistic Regression)
 
 ## Overview
 This project uses Machine Learning to classify messages as Spam or Not Spam.
