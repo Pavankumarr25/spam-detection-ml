@@ -1,4 +1,4 @@
-# Spam Detection Project
+# # 🚀 Spam Detection System using Machine Learning (TF-IDF + Logistic Regression)
 
 ## Overview
 This project uses Machine Learning to classify messages as Spam or Not Spam.
@@ -40,11 +40,13 @@ It includes:
 1. Clone the repository:
 
 git clone https://github.com/Pavankumarr25/spam-detection.git
+
 cd spam-detection
 
 2. Create virtual environment:
 
-python -m venv venv
+python -m venv 
+venv
 venv\Scripts\activate
 
 3. Install dependencies:
@@ -94,7 +96,7 @@ Prediction: Spam
 * Confusion matrix & visual insights
 * Modular and scalable project structure
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * FastAPI backend for real-time predictions
 * Web UI (Streamlit / React)
@@ -105,9 +107,8 @@ Prediction: Spam
 
 Pavan Kumar
 
----
 
-## 📌 Note
+## Note
 
 Make sure to run training before prediction:
 
